@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "full-wide"
+  ],
+  "cssTheme": "",
+  "textFontFamily": "Consolas,Courier New",
+  "interfaceFontFamily": "Consolas,Courier New",
+  "showViewHeader": true
+}

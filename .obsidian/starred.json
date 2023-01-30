@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Git Repository",
+      "path": "Basic/Git Repository.md"
+    },
+    {
+      "type": "file",
+      "title": "Kubernetes",
+      "path": "Basic/Kubernetes.md"
+    },
+    {
+      "type": "file",
+      "title": "PC setup",
+      "path": "Basic/PC setup.md"
+    },
+    {
+      "type": "file",
+      "title": "Release Rings",
+      "path": "Basic/Release Rings.md"
+    }
+  ]
+}
