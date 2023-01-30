@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "showLineNumber": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "showFrontmatter": true,
   "readableLineLength": false,
   "promptDelete": false,
