@@ -15,3 +15,5 @@
     * Advanced Tables → ช่วยจัดตารางให้อัตโนมัติ
     * Kanban → ทำให้ Obsidian สร้าง `Trello` ในเครื่องตัวเองได้
     * Mind Map → สามารถ render เป็น mindmap ได้ (F1 แล้วพิมพ์ว่า mindmap เพื่อ render)
+    * Excalidraw → ช่วยให้ วาดรูป และ แทรกรูปลงใน note ได้
+    * Calendar → แสดงปฎิธิน และ สามารถจด note รายวันหรือรายอาทิตย์ได้
